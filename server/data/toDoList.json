@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Makan Pagi",
+        "UserId" : 1,
+        "status" : false
+    },
+    {
+        "name" : "Makan Siang",
+        "UserId" : 1,
+        "status" : false
+    },
+    {
+        "name" : "Makan Sore",
+        "UserId" : 1,
+        "status" : false
+    },
+    {
+        "name" : "Makan Malam",
+        "UserId" : 1,
+        "status" : false
+    },
+    {
+        "name" : "Gym",
+        "UserId" : 1,
+        "status" : false
+    },
+    {
+        "name" : "Ngoding 6 jam",
+        "UserId" : 1,
+        "status" : false
+    }
+]
