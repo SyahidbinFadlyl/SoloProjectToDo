@@ -23,7 +23,7 @@ module.exports = {
         onUpdate: "cascade",
       },
       status: {
-        type: Sequelize.STRING,
+        type: Sequelize.BOOLEAN,
         allowNull: false,
       },
       createdAt: {
